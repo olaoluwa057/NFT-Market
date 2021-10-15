@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# NFT Market Place
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is an NFT market which uses the highest bidder system. 
 
-Try running some of the following tasks:
+Still in progress.. Full ReadMe when code if Full complete. 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Bid system fully fuctional at the moment. 
